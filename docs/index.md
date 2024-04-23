@@ -186,11 +186,11 @@ end
 ### イメージの挿入
 
 ```
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://assets-cdn.github.com/img/icons/emoji/octocat.png)
 ![](https://guides.github.com/activities/hello-world/branching.png)
 ```
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://assets-cdn.github.com/img/icons/emoji/octocat.png)
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
 
@@ -238,3 +238,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 
 ### END OF FILE
+
+
